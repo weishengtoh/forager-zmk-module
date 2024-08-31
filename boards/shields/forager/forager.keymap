@@ -58,7 +58,7 @@
         base {
             bindings = <
             &kp Q           &kp W           &kp F           &kp P           &kp B                                           &kp J           &kp L           &kp U           &kp Y           &kp SEMI
-            &lhm LGUI A     &lhm LALT R     &lhm LCTRL S    &lhm LSHFT T    &kp G                                           &kp M           &rhm LSHFT N    &rhm LCTRL E    &rhm LALT I     &kp rhm LGUI O
+            &lhm LGUI A     &lhm LALT R     &lhm LCTRL S    &lhm LSHFT T    &kp G                                           &kp M           &rhm LSHFT N    &rhm LCTRL E    &rhm LALT I     &rhm LGUI O
             &kp Z           &kp X           &kp C           &kp D           &kp V                                           &kp K           &kp H           &kp COMMA       &kp DOT
                                                                             &lt MEDIA SPACE   &lt NAV TAB    &lt SYM ENTER  &lt NUM BSPC
             >;
