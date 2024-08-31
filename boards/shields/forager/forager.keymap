@@ -8,7 +8,7 @@
 #define NUM  2
 #define SYM  3
 #define FUN  4
-#define MEDIA  5
+#define MEDIA 5
 
 &lt {
     // require-prior-idle-ms = <100>;
@@ -30,7 +30,7 @@
                 key-positions = <33, 34>;
                 layers = <0>;
                 bindings = <&lt FUN DEL>;
-            }
+            };
         };
         lhm: left_homerow_mods {
             compatible = "zmk,behavior-hold-tap";
