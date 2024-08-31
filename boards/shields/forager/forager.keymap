@@ -28,7 +28,6 @@
             combo_del {
                 timeout-ms = <50>;
                 key-positions = <10 20>;
-                layers = <0>;
                 bindings = <&kp DEL>;
             };
         };
@@ -64,7 +63,7 @@
 
         base {
             bindings = <
-            &kp Q           &kp W           &kp F           &kp P           &kp B                                           &kp J           &kp L           &kp U           &kp Y           &kp SEMI
+            &kp Q           &kp W           &kp F           &kp P           &kp B                                           &kp J           &kp L           &kp U           &kp Y           &kp APOS
             &lhm LGUI A     &lhm LALT R     &lhm LCTRL S    &lhm LSHFT T    &kp G                                           &kp M           &rhm LSHFT N    &rhm LCTRL E    &rhm LALT I     &rhm LGUI O
             &kp Z           &kp X           &kp C           &kp D           &kp V                                           &kp K           &kp H           &kp COMMA       &kp DOT         &kp SLASH
                                                                             &lt MEDIA SPACE   &lt NAV TAB    &lt SYM ENTER  &lt NUM BSPC
