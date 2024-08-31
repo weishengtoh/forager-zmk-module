@@ -87,7 +87,7 @@
             &kp KP_LPAR     &kp AMPS        &kp ASTRK       &kp LPAR        &kp KP_RPAR                                     &trans        &trans          &trans          &trans          &trans
             &kp COLON       &kp DLLR        &kp PRCNT       &kp CARET       &kp PLUS                                        &kp RSHFT     &kp RCTRL       &kp RALT        &kp RGUI        &trans
             &kp TILDE       &kp EXCL        &kp AT          &kp HASH        &kp PIPE                                        &trans        &trans          &trans          &trans          &trans
-                                                                            &kp RBKT    &kp UNDER             &tran         &trans
+                                                                            &kp RBKT    &kp UNDER             &trans         &trans
             >;
         };
 
