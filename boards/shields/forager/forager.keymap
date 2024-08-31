@@ -27,7 +27,7 @@
             compatible = "zmk,combos";
             combo_fun_del {
                 timeout-ms = <50>;
-                key-positions = <33, 34>;
+                key-positions = <33 34>;
                 layers = <0>;
                 bindings = <&lt FUN DEL>;
             };
