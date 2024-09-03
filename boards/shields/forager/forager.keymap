@@ -24,12 +24,12 @@
     combos {
         compatible = "zmk,combos";
         combo_del {
-            timeout-ms = <50>;
+            timeout-ms = <100>;
             key-positions = <32 33>;
             bindings = <&lt FUN DEL>;
         };
         combo_esc {
-            timeout-ms = <50>;
+            timeout-ms = <100>;
             key-positions = <30 31>;
             bindings = <&kp ESC>;
         };
@@ -66,7 +66,7 @@
             &kp Q           &kp W           &kp F           &kp P           &kp B                                           &kp J           &kp L           &kp U           &kp Y           &kp APOS
             &lhm LGUI A     &lhm LALT R     &lhm LCTRL S    &lhm LSHFT T    &kp G                                           &kp M           &rhm RSHFT N    &rhm RCTRL E    &rhm RALT I     &rhm RGUI O
             &kp Z           &kp X           &kp C           &kp D           &kp V                                           &kp K           &kp H           &kp COMMA       &kp DOT         &kp SLASH
-                                                                            &lt MEDIA SPACE   &lt NAV TAB    &lt SYM ENTER  &lt NUM BSPC
+                                                                            &lt NAV SPACE   &lt MEDIA TAB    &lt SYM ENTER  &lt NUM BSPC
             >;
         };
 
